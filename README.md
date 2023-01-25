@@ -1,9 +1,9 @@
 # Coursera_MLOps
 
-#### References Week3:
+#### This is a notepad along with my study. I think it will be handy when I need to look back sometime later and probably useful for other peer learners to find things.
 
-References
-Introduction to Machine Learning in Production
+
+#### Course 1 Introduction to Machine Learning in Production
 This is a compilation of resources including URLs and papers appearing in lecture videos.
 
 Overall resources:
@@ -51,3 +51,48 @@ MLops
 
 Geirhos, R., Janssen, D. H. J., Schutt, H. H., Rauber, J., Bethge, M., & Wichmann, F. A. (n.d.). Comparing deep neural networks against humans: object recognition when the signal gets weaker∗. Retrieved May 7, 2021, from Arxiv.org website:
 
+
+#### Course 2 Machine Learning Data Lifecycle in Production
+
+
+Data Journey and Data Storage Resources:
+Data Versioning:
+
+https://dvc.org/
+
+https://git-lfs.github.com/
+
+ML Metadata:
+
+https://www.tensorflow.org/tfx/guide/mlmd#data_model
+
+https://www.tensorflow.org/tfx/guide/understanding_custom_components
+
+Chicago taxi trips data set: 
+
+https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew/data
+
+https://archive.ics.uci.edu/ml/datasets/covertype
+
+Feast:
+
+https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning
+
+https://github.com/feast-dev/feast
+
+https://www.gojek.io/blog/feast-bridging-ml-models-and-data
+
+
+#### Course 4 Machine Learning Engineering for Production
+
+More materials and lab data are available at my other forked repository from Coursera (https://github.com/xerocopy/machine-learning-engineering-for-production-public.git)
+
+Links on model servers:
+
+1. tensorflow serving: https://www.tensorflow.org/tfx/serving/architecture
+
+2. torchserve: https://github.com/pytorch/serve
+
+3. kubeFlow serving: https://www.kubeflow.org/docs/external-add-ons/serving/
+
+4. NVIDIA Triton: https://developer.nvidia.com/nvidia-triton-inference-server
